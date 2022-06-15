@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import profilepic1 from '../img/profile1.jpg'
-import Social from '../components/Social';
 
 class About extends Component {
     render() {
@@ -12,7 +11,6 @@ class About extends Component {
                 <h3>Hi, I'm tawat</h3>
                 <p>My name is Tawat studying at Nakhon Pathom Rajabhat University 
                 <br/>Major Software Engineering</p>
-                <Social />
             </div>
         );
     }
