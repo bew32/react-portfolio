@@ -8,6 +8,7 @@ class Position extends Component {
                 <h1 className="subtopic">Position OF Interest</h1>
                 <Positioncard title="- Software Tester"></Positioncard>
                 <Positioncard title="- Automate Tester"></Positioncard>
+                <Positioncard title="- System analyst"></Positioncard>
                 <Positioncard title="- System Engineer"></Positioncard>
                 <Positioncard title="- System Admin"></Positioncard>
                 <Positioncard title="- Software QA"></Positioncard>
